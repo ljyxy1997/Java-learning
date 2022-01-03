@@ -18,10 +18,10 @@ public class StringTest {
         String s3 = "";
         System.out.println(s2);
         System.out.println(s3);
-        
+
         //********************************
         int number = 1001;
-        String numberstr = "学号";
+        String numberstr = "202104704178";
         String info = numberstr + number;
         System.out.println(info);
         //********************************
