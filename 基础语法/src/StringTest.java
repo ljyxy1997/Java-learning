@@ -21,13 +21,13 @@ public class StringTest {
 
         //********************************
         int number = 1001;
-        String numberstr = "202104704178";
+        String numberstr = "学号";
         String info = numberstr + number;
         System.out.println(info);
         //********************************
         //练习1
         char c = 'a'; //97  A:65
-        int num = 10;
+        int num = 100;
         String str = "hello";
         System.out.println(c+num+str);//107hello
         System.out.println(c+str+num);//ahello10
